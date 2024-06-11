@@ -20,9 +20,9 @@ const client = await authenticatePronoteQRCode({
 
   // This is the data from the QR Code.
   dataFromQRCode: {
-    jeton: "0A184FECF6096FC415CBA8698E9F32AB76C2EE9DE73DD4D689A5834C1365C5DC1E421EDE76174AEF3FA03F82A91A3FA3C2D2104F421739FE5FB4518E4C7CAE26DF2EB726349C299B6E30EA4D2C295F2BD65FB91E2D799BF1749AB5A9E704E6AAB3DBDC2421C26F5DF02CB655FC396644",
-    login: "BC46D0ACC34E56418762934616F9B8EF",
-    url: "https://0952236p.index-education.net/pronote/mobile.eleve.html"
+    jeton: "",
+    login: "", 
+    url: ""
   },
 
   // An unique identifier that will be used to identify the device.
